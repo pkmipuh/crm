@@ -98,47 +98,47 @@ msgstr ""
 #. module: lettermgmt
 #: view:res.letter:lettermgmt.res_letter_form_view
 msgid "Cancel"
-msgstr "Batalkan"
+msgstr "Batal"
 
 #. module: lettermgmt
 #: selection:res.letter,state:0
 msgid "Cancelled"
-msgstr ""
+msgstr "Dibatalkan"
 
 #. module: lettermgmt
 #: field:res.letter,channel_id:0
 msgid "Channel"
-msgstr "Saluran"
+msgstr "Canel"
 
 #. module: lettermgmt
 #: help:res.letter,category_ids:0
 msgid "Classification of Document."
-msgstr ""
+msgstr "Klasifikasi dokumen"
 
 #. module: lettermgmt
 #: field:letter.folder,code:0 field:letter.type,code:0
 msgid "Code"
-msgstr ""
+msgstr "Kode"
 
 #. module: lettermgmt
 #: sql_constraint:letter.folder:0 sql_constraint:letter.type:0
 msgid "Code must be unique !"
-msgstr ""
+msgstr "Kode harus beda"
 
 #. module: lettermgmt
 #: field:letter.reassignment,comment:0
 msgid "Comment"
-msgstr ""
+msgstr "Komentar"
 
 #. module: lettermgmt
 #: help:letter.reassignment,comment:0
 msgid "Comment for user explaining forward."
-msgstr ""
+msgstr "Komentar untuk pengguna untuk diteruskan"
 
 #. module: lettermgmt
 #: model:ir.ui.menu,name:lettermgmt.letter_log_config_menu
 msgid "Configuration"
-msgstr ""
+msgstr "pengaturan"
 
 #. module: lettermgmt
 #: field:letter.category,create_uid:0 field:letter.channel,create_uid:0
@@ -162,7 +162,7 @@ msgstr "Tanggal pesan terakhir diposting pada catatan."
 #. module: lettermgmt
 #: view:res.letter:lettermgmt.res_letter_form_view field:res.letter,note:0
 msgid "Delivery Notes"
-msgstr ""
+msgstr "Catatan pengiriman"
 
 #. module: lettermgmt
 #: field:letter.category,display_name:0 field:letter.channel,display_name:0
@@ -174,22 +174,22 @@ msgstr "Nama Tampilan"
 #. module: lettermgmt
 #: selection:res.letter,state:0
 msgid "Draft"
-msgstr ""
+msgstr "Draf"
 
 #. module: lettermgmt
 #: field:res.letter,expeditor_ref:0
 msgid "Expeditor Reference"
-msgstr ""
+msgstr "Referensi ekpenditor"
 
 #. module: lettermgmt
 #: field:res.letter,folder_id:0
 msgid "Folder"
-msgstr ""
+msgstr "Folder"
 
 #. module: lettermgmt
 #: help:res.letter,folder_id:0
 msgid "Folder which contains letter."
-msgstr ""
+msgstr "Folder dengan isi surat"
 
 #. module: lettermgmt
 #: field:res.letter,message_follower_ids:0
@@ -213,7 +213,7 @@ msgstr "ID"
 #. module: lettermgmt
 #: selection:res.letter,move:0
 msgid "IN"
-msgstr ""
+msgstr "IN"
 
 #. module: lettermgmt
 #: help:res.letter,message_unread:0
@@ -224,22 +224,22 @@ msgstr "Jika dicentang pesan baru membutuhkan perhatian Anda."
 #: model:ir.actions.act_window,name:lettermgmt.action_res_letter_in_tree_view
 #: model:ir.ui.menu,name:lettermgmt.res_letter_in_menu
 msgid "Inbound Letters"
-msgstr ""
+msgstr "surat masuk"
 
 #. module: lettermgmt
 #: help:res.letter,move:0
 msgid "Incoming or Outgoing Letter."
-msgstr ""
+msgstr "Surat masuk atau surat keluar"
 
 #. module: lettermgmt
 #: help:res.letter,note:0
 msgid "Indications for the delivery officer."
-msgstr ""
+msgstr "Indikasi untuk petugas pengiriman"
 
 #. module: lettermgmt
 #: field:res.letter,message_is_follower:0
 msgid "Is a Follower"
-msgstr ""
+msgstr "Adlah pengikut"
 
 #. module: lettermgmt
 #: field:res.letter,message_last_post:0
@@ -272,7 +272,7 @@ msgstr "Diperbaharui pada"
 #: field:letter.reassignment,letter_id:0
 #: view:res.letter:lettermgmt.res_letter_form_view
 msgid "Letter"
-msgstr ""
+msgstr "Surat"
 
 #. module: lettermgmt
 #: model:ir.actions.act_window,name:lettermgmt.action_letter_category_tree_view
@@ -281,7 +281,7 @@ msgstr ""
 #: view:letter.category:lettermgmt.letter_category_form_view
 #: view:letter.category:lettermgmt.letter_category_tree_view
 msgid "Letter Category"
-msgstr ""
+msgstr "Katagori Surat"
 
 #. module: lettermgmt
 #: model:ir.actions.act_window,name:lettermgmt.action_letter_channel_tree_view
@@ -289,41 +289,41 @@ msgstr ""
 #: view:letter.channel:lettermgmt.letter_channel_form_view
 #: view:letter.channel:lettermgmt.letter_channel_tree_view
 msgid "Letter Channel"
-msgstr ""
+msgstr "Canel surat"
 
 #. module: lettermgmt
 #: field:res.letter,date:0
 msgid "Letter Date"
-msgstr ""
+msgstr "Tanggal Surat"
 
 #. module: lettermgmt
 #: model:ir.model,name:lettermgmt.model_letter_folder
 #: view:letter.folder:lettermgmt.letter_folder_form_view
 #: view:letter.folder:lettermgmt.letter_folder_tree_view
 msgid "Letter Folder"
-msgstr ""
+msgstr "Folder Surat"
 
 #. module: lettermgmt
 #: model:ir.actions.act_window,name:lettermgmt.action_letter_folder_tree_view
 #: model:ir.ui.menu,name:lettermgmt.letter_folder_menu
 msgid "Letter Folders"
-msgstr ""
+msgstr "Beberapa Folder Surat"
 
 #. module: lettermgmt
 #: field:res.letter,child_line:0
 msgid "Letter Lines"
-msgstr ""
+msgstr "Jalur Surat"
 
 #. module: lettermgmt
 #: model:ir.module.category,name:lettermgmt.module_category
 #: model:ir.ui.menu,name:lettermgmt.letter_log_menu
 msgid "Letter Management"
-msgstr ""
+msgstr "Pengendalian Surat"
 
 #. module: lettermgmt
 #: model:ir.actions.act_window,name:lettermgmt.action_letter_reassignment_tree_view
 msgid "Letter Reassignment"
-msgstr ""
+msgstr "Penugasan Kembali Surat"
 
 #. module: lettermgmt
 #: model:ir.actions.act_window,name:lettermgmt.action_letter_type_tree_view
@@ -332,12 +332,12 @@ msgstr ""
 #: view:letter.type:lettermgmt.letter_type_form_view
 #: view:letter.type:lettermgmt.letter_type_tree_view
 msgid "Letter Type"
-msgstr ""
+msgstr "Jenis Surat"
 
 #. module: lettermgmt
 #: help:letter.reassignment,letter_id:0
 msgid "Letter in question."
-msgstr ""
+msgstr "Surat dalam pernyataan"
 
 #. module: lettermgmt
 #: model:ir.ui.menu,name:lettermgmt.res_letter_menu
@@ -345,7 +345,7 @@ msgstr ""
 #: view:res.letter:lettermgmt.res_letter_calendar_view
 #: view:res.letter:lettermgmt.res_letter_tree_view
 msgid "Letters"
-msgstr ""
+msgstr "Surat"
 
 #. module: lettermgmt
 #: help:letter.folder,letter_ids:0
@@ -355,22 +355,22 @@ msgstr ""
 #. module: lettermgmt
 #: view:res.letter:lettermgmt.res_letter_filter
 msgid "Letters that haven't arrived to its destination yet."
-msgstr ""
+msgstr "Surat yang terkandung dalam folder ini."
 
 #. module: lettermgmt
 #: model:ir.model,name:lettermgmt.model_res_letter
 msgid "Log of Letter Movements"
-msgstr ""
+msgstr "log dari perpindahan surat"
 
 #. module: lettermgmt
 #: model:res.groups,comment:lettermgmt.group_letter_thread
 msgid "Members of this group can set letters' parent and/or childs."
-msgstr ""
+msgstr "Anggota dari group dapat mengatur surat 'induk/atau bagiannya"
 
 #. module: lettermgmt
 #: model:res.groups,comment:lettermgmt.group_letter_reasignment
 msgid "Members of this group can view and edit Letter Reasignments."
-msgstr ""
+msgstr "Anggota adalah grop dapat melihat dan mengubah penugasan kembali surat"
 
 #. module: lettermgmt
 #: field:res.letter,message_ids:0
@@ -385,7 +385,7 @@ msgstr "Pesan dan riwayat komunikasi"
 #. module: lettermgmt
 #: field:res.letter,move:0
 msgid "Move"
-msgstr ""
+msgstr "Pindahan"
 
 #. module: lettermgmt
 #: field:letter.category,name:0 field:letter.channel,name:0
@@ -397,92 +397,92 @@ msgstr "Nama"
 #. module: lettermgmt
 #: field:res.letter,number:0
 msgid "Number"
-msgstr ""
+msgstr "Nomer"
 
 #. module: lettermgmt
 #: selection:res.letter,move:0
 msgid "OUT"
-msgstr ""
+msgstr "Keluar"
 
 #. module: lettermgmt
 #: field:res.letter,orig_ref:0
 msgid "Original Reference"
-msgstr ""
+msgstr "Referensi asli"
 
 #. module: lettermgmt
 #: model:ir.actions.act_window,name:lettermgmt.action_res_letter_out_tree_view
 #: model:ir.ui.menu,name:lettermgmt.res_letter_out_menu
 msgid "Outbound Letters"
-msgstr ""
+msgstr "Surat keluar"
 
 #. module: lettermgmt
 #: view:res.letter:lettermgmt.res_letter_form_view
 msgid "Outbound Source"
-msgstr ""
+msgstr "Sumber Surat keluar"
 
 #. module: lettermgmt
 #: field:res.letter,parent_id:0
 msgid "Parent"
-msgstr ""
+msgstr "Induk"
 
 #. module: lettermgmt
 #: view:res.letter:lettermgmt.res_letter_form_view
-msgid "Parent..."
+msgid "Induk"
 msgstr ""
 
 #. module: lettermgmt
 #: view:res.letter:lettermgmt.res_letter_filter
 msgid "Pending"
-msgstr ""
+msgstr "Pending"
 
 #. module: lettermgmt
 #: view:letter.reassignment:lettermgmt.letter_reassignment_form_view
 #: view:letter.reassignment:lettermgmt.letter_reassignment_tree_view
 #: view:res.letter:lettermgmt.res_letter_form_view
 msgid "Reassignment"
-msgstr ""
+msgstr "Penugasan kembali"
 
 #. module: lettermgmt
 #: model:ir.model,name:lettermgmt.model_letter_reassignment
 msgid "Reassignment line"
-msgstr ""
+msgstr "Jalur penugasan kembali"
 
 #. module: lettermgmt
 #: field:res.letter,reassignment_ids:0
 msgid "Reassignment lines"
-msgstr ""
+msgstr "jalur Penugasan kembali"
 
 #. module: lettermgmt
 #: help:res.letter,reassignment_ids:0
 msgid "Reassignment users and comments"
-msgstr ""
+msgstr "Penugasan kemabli penguna dan komentar"
 
 #. module: lettermgmt
 #: view:res.letter:lettermgmt.res_letter_form_view
 #: selection:res.letter,state:0
 msgid "Received"
-msgstr ""
+msgstr "Menerima"
 
 #. module: lettermgmt
 #: selection:res.letter,state:0
 msgid "Received But Returned"
-msgstr ""
+msgstr "Menerima tetapi dikembalikan"
 
 #. module: lettermgmt
 #: view:res.letter:lettermgmt.res_letter_form_view
 #: selection:res.letter,state:0
 msgid "Received Damage"
-msgstr ""
+msgstr "Menerima Rusak"
 
 #. module: lettermgmt
 #: field:res.letter,rec_date:0
 msgid "Received Date"
-msgstr ""
+msgstr "Tanggal menerima"
 
 #. module: lettermgmt
 #: view:res.letter:lettermgmt.res_letter_form_view
 msgid "Received but Returned"
-msgstr ""
+msgstr "Menerima tetapi dikembalikan"
 
 #. module: lettermgmt
 #: field:res.letter,recipient_partner_id:0
